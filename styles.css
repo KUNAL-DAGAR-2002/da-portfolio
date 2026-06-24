@@ -200,10 +200,10 @@ h3 {
 
 .profile-image {
   display: block;
-  width: 280px;
-  height: 280px;
+  width: 280px !important;
+  height: 280px !important;
   max-width: 100%;
-  aspect-ratio: 1;
+  aspect-ratio: 1 / 1;
   object-fit: cover;
   border: 8px solid white;
   border-radius: 8px;
@@ -530,8 +530,8 @@ footer {
   }
 
   .profile-image {
-    width: 260px;
-    height: 260px;
+    width: 260px !important;
+    height: 260px !important;
   }
 
   .project-preview {
