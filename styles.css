@@ -426,6 +426,16 @@ h3 {
   font-weight: 800;
 }
 
+.project-note {
+  display: inline-flex;
+  color: var(--accent-dark);
+  font-weight: 800;
+}
+
+.static-button {
+  cursor: default;
+}
+
 .split {
   display: grid;
   grid-template-columns: minmax(260px, 0.8fr) minmax(0, 1.2fr);
