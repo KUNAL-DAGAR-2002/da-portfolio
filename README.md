@@ -9,11 +9,24 @@ Static portfolio website for freelance data analytics work focused on restaurant
 - Possist reporting process automation
 - FMCG sales, marketing, and profitability analysis
 
-## Tech Stack
+## Analytics Tech Stack
 
-- HTML
-- CSS
-- JavaScript
+- Python
+- SQL
+- Pandas
+- NumPy
+- Scikit-learn
+- Power BI
+- Power Query
+- KPI dashboards
+- Data visualization
+- Reporting automation
+- ETL pipelines
+- Data cleaning
+- Workflow automation
+- Google Sheets API
+- Jupyter Notebook
+- Generative AI, LLM applications, NLP, predictive analytics, and prompt engineering
 
 ## Contact
 
