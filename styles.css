@@ -193,14 +193,16 @@ h3 {
 
 .hero-card {
   position: relative;
-  max-width: 310px;
+  width: 280px;
+  max-width: 100%;
   justify-self: end;
 }
 
 .profile-image {
   display: block;
-  width: 100%;
-  height: auto;
+  width: 280px;
+  height: 280px;
+  max-width: 100%;
   aspect-ratio: 1;
   object-fit: cover;
   border: 8px solid white;
@@ -524,7 +526,12 @@ footer {
 
   .hero-card {
     justify-self: start;
-    width: min(100%, 300px);
+    width: 260px;
+  }
+
+  .profile-image {
+    width: 260px;
+    height: 260px;
   }
 
   .project-preview {
